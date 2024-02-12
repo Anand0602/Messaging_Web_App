@@ -1,0 +1,27 @@
+{
+  "name": "me-chat",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint",
+    "export": "next build && next export"
+  },
+  "dependencies": {
+    "@emotion/react": "^11.11.1",
+    "@emotion/styled": "^11.11.0",
+    "@mui/icons-material": "^5.14.18",
+    "@mui/material": "^5.14.18",
+    "compressorjs": "^1.2.1",
+    "eslint": "8.54.0",
+    "eslint-config-next": "14.0.3",
+    "firebase": "^10.7.0",
+    "nanoid": "^5.0.3",
+    "next": "14.0.3",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "react-firebase-hooks": "^5.1.1"
+  }
+}
